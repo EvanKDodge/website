@@ -1,2 +1,5 @@
 # website
-Hello World website for demonstration DevOps principles
+
+This is a simple 'Hello, World!' website.
+
+Using to demonstrate basic DevOps principles.
